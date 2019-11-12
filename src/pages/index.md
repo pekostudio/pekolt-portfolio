@@ -3,11 +3,11 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Stackbit Exto Portfolio Theme.
+  title: I Design, Develop & Support
   section_id: hero
   component: HeroBlock
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: Usually I design and develop world-class digital products, tools and experiences
+    for happy customers. [Are you one of them?](mailto:hello@peko.lt)
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
